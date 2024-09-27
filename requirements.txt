@@ -1,0 +1,5 @@
+google-generativeai==0.3.1
+gradio==4.29.0
+numpy
+ultralytics
+opencv-python

@@ -78,4 +78,3 @@ http://localhost:7860
 ---
 
 **Enjoy detecting crop diseases and tomato freshness with this application!**
-```

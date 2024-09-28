@@ -79,14 +79,3 @@ http://localhost:7860
 
 **Enjoy detecting crop diseases and tomato freshness with this application!**
 ```
-
-### Key Improvements:
-1. **Title & Overview**: A clear and concise title to make the purpose of the project immediately obvious.
-2. **File Structure**: Uses a tree-like structure to represent the directory and files, helping users understand the layout quickly.
-3. **Installation**: Simplified and easy-to-follow installation instructions.
-4. **Environment Variables**: Clear instructions on how to set the environment variable for the Google API.
-5. **Running the Application**: Direct instructions to get the application running locally.
-6. **Usage**: Step-by-step process on how to use the application.
-7. **Notes**: Clarifies the project's purpose and potential limitations.
-
-This structure provides a user-friendly experience and ensures that visitors can easily understand and navigate the project.

@@ -1,6 +1,4 @@
-Here is the reformatted `README.md` in a clear, structured format that users visiting the repository can easily follow:
-
-```markdown
+```
 # Crop Disease and Tomato Freshness Detection
 
 This project is a web-based application that utilizes **computer vision** and **natural language processing** to detect crop diseases and assess tomato freshness. The application leverages **YOLOv8** for object detection and **Google's Gemini model** for text generation.
